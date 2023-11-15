@@ -1,2 +1,3 @@
 # DevOps
-This is a small DevOps project
+This is a small DevOps project.
+Hello All!
